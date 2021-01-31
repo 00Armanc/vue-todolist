@@ -4,10 +4,10 @@
 
 ## Technologies
 ```
-Vue
-Vuex
-Animate.css
-Firebase
+- Vue
+- Vuex
+- Animate.css
+- Firebase
 ```
 
 ## Build Setup
