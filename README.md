@@ -3,10 +3,12 @@
 > A Vue.js project
 
 ## Technologies
+```
 Vue
 Vuex
 Animate.css
 Firebase
+```
 
 ## Build Setup
 
